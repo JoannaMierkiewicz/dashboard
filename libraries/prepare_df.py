@@ -1,8 +1,8 @@
 import pandas as pd
 
-education_level = pd.read_csv('~/Desktop/sample_panel/data/education_level.csv')
-income_group = pd.read_csv('~/Desktop/sample_panel/data/income_group.csv')
-procent_pkb = pd.read_excel('~/Desktop/sample_panel/data/procent_pkb_kraje.xlsx')
+education_level = pd.read_csv('~/Documents/dashboard/data/education_level.csv')
+income_group = pd.read_csv('~/Documents/dashboard/data/income_group.csv')
+procent_pkb = pd.read_excel('~/Documents/dashboard/data/procent_pkb_kraje.xlsx')
 
 class PrepareData:
 
